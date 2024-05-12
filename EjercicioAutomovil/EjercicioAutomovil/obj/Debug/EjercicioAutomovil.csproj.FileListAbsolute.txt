@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\bin\Debug\EjercicioAutomovil.exe.config
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\bin\Debug\EjercicioAutomovil.exe
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\bin\Debug\EjercicioAutomovil.pdb
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\obj\Debug\EjercicioAutomovil.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\obj\Debug\EjercicioAutomovil.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\obj\Debug\EjercicioAutomovil.exe
+C:\Users\Usuario\Desktop\PrimeraPruebaProgramacion1\EjercicioAutomovil\EjercicioAutomovil\obj\Debug\EjercicioAutomovil.pdb
